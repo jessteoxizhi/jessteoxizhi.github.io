@@ -24,34 +24,34 @@ title: jessteoxizhi's profile
 				<div class="row">
 					<div class="col-md-6">
 						<div class="progress">
-							<div class ="progress-bar" role = "progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style ="width:70%">
+							<div class ="progress-bar" role = "progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style ="width:100%">
 								<h5>C and C++</h5>
 							</div>
 						</div>
 						<div class="progress">
-							<div class ="progress-bar" role = "progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style ="width:70%">
+							<div class ="progress-bar" role = "progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style ="width:100%">
 								<h5>Java</h5>
 							</div>
 						</div>
 					<div class="progress">
-							<div class ="progress-bar" role = "progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style ="width:60%">
+							<div class ="progress-bar" role = "progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style ="width:100%">
 								<h5>GitHub</h5>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-6">
 						<div class="progress">
-							<div class ="progress-bar" role = "progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style ="width:80%">
+							<div class ="progress-bar" role = "progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style ="width:100%">
 								<h5>Html</h5>
 							</div>
 						</div>
 						<div class="progress">
-							<div class ="progress-bar" role = "progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style ="width:65%">
+							<div class ="progress-bar" role = "progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style ="width:100%">
 								<h5>CSS</h5>
 							</div>
 						</div>
 						<div class="progress">
-							<div class ="progress-bar" role = "progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style ="width:70%">
+							<div class ="progress-bar" role = "progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style ="width:100%">
 								<h5>Python</h5>
 							</div>
 						</div>
