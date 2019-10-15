@@ -6,11 +6,11 @@ title: jessteoxizhi's profile
 		<!--PROFILE PICTURE-->
 		<section id="about" class="container-fluid">
 			<div class="col-xs-6 col-md-12 profile-picture">
-				<img src="images/me.jpg" alt= "Jess" class="rounded-circle">
+				<img src="me.jpg" alt= "Jess" class="rounded-circle">
 				<div class="heading">
 					<h1> Jess Teo </h1>
 					<h3>Computer Engineering undergraduate at National University of Singapore</h3>
-					<a href="docs/CV.pdf" class="button1"> Download CV </a>
+					<a href="CV.pdf" class="button1"> Download CV </a>
 				</div>	
 			</div>
 		</section>	
