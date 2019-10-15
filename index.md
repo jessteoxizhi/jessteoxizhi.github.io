@@ -163,7 +163,7 @@ title: jessteoxizhi's profile
 		<section id = "Co-Curricullar Experience">
 			<div class ="divider"></div>
 			<div class ="heading">
-				<h2>Co-Curricullar Experience</h2>
+				<h2>Co-Curricular Experience</h2>
 			</div>
 			<div id ="myCarousel" class="carousel slide text-center" data-ride="carousel">
 				<ol class="carousel-indicators">
