@@ -42,7 +42,7 @@ title: jessteoxizhi's profile
 					<div class="col-md-6">
 						<div class="progress">
 							<div class ="progress-bar" role = "progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style ="width:100%">
-								<h5>Html</h5>
+								<h5>HTML</h5>
 							</div>
 						</div>
 						<div class="progress">
@@ -112,7 +112,7 @@ title: jessteoxizhi's profile
 					</li>
           <li>
 						<div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
-						<div class="timeline-panel-container-inverted">
+						<div class="timeline-panel-container">
 							<div class ="timeline-panel">
 								<div class="timeline-heading">
 									<h3>Procoil Engineering Pte Ltd</h3>
