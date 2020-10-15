@@ -72,9 +72,33 @@ title: jessteoxizhi's profile
 						<div class="timeline-panel-container">
 							<div class ="timeline-panel">
 								<div class="timeline-heading">
+										<h3>CitiBank</h3>
+										<h4>Summer Technology Analyst</h4>
+										<p class="text-muted"><small class="fa fa-clock-o"></small> Jun 2020 - Aug 2020</p>
+								</div>
+								<div class="timeline-body">
+									<ul>
+										<li>
+											<p>Guided students in weekly lab Built an interactive dashboard using PowerBI to develop insights about real-world financial data.</p>
+										</li>
+										<li>
+											<p>Developed a web-application using Python-Flask that was hosted using Docker.</p>
+										<li>
+<p>Designed a Chatbot using AWS lex and lamda to handle client’s queries.</p>
+										</li>
+									</ul>
+								</div>
+							</div>
+						 </div>
+					</li>
+					<li>
+						<div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+						<div class="timeline-panel-container">
+							<div class ="timeline-panel">
+								<div class="timeline-heading">
 										<h3>National University of Singapore</h3>
 										<h4>Teaching Assistant</h4>
-										<p class="text-muted"><small class="fa fa-clock-o"></small> Aug 2019 - now</p>
+										<p class="text-muted"><small class="fa fa-clock-o"></small> Aug 2019 - May 2020</p>
 								</div>
 								<div class="timeline-body">
 									<ul>
