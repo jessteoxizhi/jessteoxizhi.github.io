@@ -78,14 +78,9 @@ title: jessteoxizhi's profile
 								</div>
 								<div class="timeline-body">
 									<ul>
-										<li>
-											<p>Guided students in weekly lab Built an interactive dashboard using PowerBI to develop insights about real-world financial data.</p>
-										</li>
-										<li>
-											<p>Developed a web-application using Python-Flask that was hosted using Docker.</p>
-										<li>
-<p>Designed a Chatbot using AWS lex and lamda to handle client’s queries.</p>
-										</li>
+										<li><p>Built an interactive dashboard using PowerBI to develop insights about real-world financial data.</p></li>
+										<li><p>Developed a web-application using Python-Flask that was hosted using Docker</p></li>
+										<li><p>Designed a Chatbot using AWS lex and lamda to handle client’s queries.</p></li>
 									</ul>
 								</div>
 							</div>
